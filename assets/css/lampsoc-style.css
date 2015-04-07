@@ -1,0 +1,58 @@
+body{
+	background: url(../img/sistemdistribusi.jpg) no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.lampsoc-back{
+	margin: 5px;
+	border-radius: 5px;
+	padding: 10px;
+}
+.lampsoc-bcmenu{
+	margin: 10px;
+	padding: 10px;
+	background-color: #e67e22;
+}
+
+ul{
+	margin-bottom: 10px;
+	padding: 10px;	
+}
+
+li{
+	list-style: none;
+	background-color: rgba(236,233,233,0.8);
+	font-size: 1em;	
+	text-align: center;
+	color: #00923f;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.top{
+	background-color: #da251d;
+	color: rgba(236,233,233,0.8);
+	text-align: center;
+	font-size: 1.2em;
+}
+
+li:hover{
+	background-color: #00923f;
+	color: rgba(236,233,233,0.8);
+}
+
+.lampsoc-bottom{
+	padding-top: 12%;
+}
+
+.block{
+	padding: 10px;
+	background-color: rgba(255,255,255,1);
+}
+
+.hov:hover{
+	background-color: rgba(0,146,63,0.2);
+	border-radius: 50px;
+}
